@@ -1,1 +1,1 @@
-  num = num/10;
+printf("%d",number[9]);
